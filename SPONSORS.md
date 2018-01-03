@@ -8,6 +8,7 @@ Leaders
 -------
 
 - Chad Furman
+- Joe Dennis
 
 Supporters
 ----------
